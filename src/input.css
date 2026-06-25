@@ -1,0 +1,13 @@
+@import url('https://googleapis.com');
+@import "tailwindcss";
+
+@theme{
+    --font-bubbles: "Fuzzy Bubbles", "sans-serif"
+}
+
+body{
+    @apply font-bubbles;
+}
+footer{
+    @apply font-bubbles;
+}
